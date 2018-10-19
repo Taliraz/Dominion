@@ -1,5 +1,5 @@
 # Dominion
 
-##Linux
+## Linux
 `javac main.java`
 `java main`
